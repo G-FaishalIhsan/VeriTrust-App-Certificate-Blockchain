@@ -62,7 +62,6 @@ VeriTrust adalah aplikasi web inovatif yang menggunakan teknologi blockchain unt
 - **ReportLab**: Generasi PDF dinamis
 - **pyHanko**: Digital signature untuk PDF
 - **PyPDF2**: Manipulasi dokumen PDF
-- **QRCode**: Generasi QR code otomatis
 
 ### Security & Cryptography
 - **eth-account**: Manajemen akun Ethereum
